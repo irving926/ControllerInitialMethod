@@ -25,6 +25,8 @@ class ViewController3: UIViewController {
         viewThreeTimes = viewThreeTimes! + 1
         viewThreeTimesLabel.text = String(viewThreeTimes!)
         
+        //test
+        
     }
     
     override func didReceiveMemoryWarning() {
